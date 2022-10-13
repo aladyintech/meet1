@@ -127,4 +127,4 @@ Serverless
 
 ### Links:
 
-[Github pages](https://navi5599.github.io/meet/)
+[Github pages](https://samia-gits-it.github.io/meet1/)

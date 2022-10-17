@@ -34,7 +34,7 @@ o.svg"
       </div>
       <a
         className="privacy"
-        href="https://navi5599.github.io/meet/privacy.html"
+        href="https://samia-gits-it.github.io/meet/privacy.html"
         rel="nofollow noopener"
       >
         Privacy policy
